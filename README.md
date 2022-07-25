@@ -1,2 +1,2 @@
 # MDCollaborationWeek
-MD Collaboration Week team hackathon repositor
+MD Collaboration Week team hackathon repository
