@@ -1,12 +1,7 @@
 # Theme 1 - What is GitHub?
 
-::: warning
-Create a resource containing information about different public GitHub initiatives created by international statistical or machine learning research organisations. Present your repository to address the following questions:
-
-<<<<<<< HEAD
-How are statistical or ML research organisations using public GitHub repositories?
-Are there guidelines for how GitHub is used by these organisations?
-:::
+Task:
+Create a resource containing information about different public GitHub initiatives created by international statistical or machine learning research organisations. Present your repository to address the following questions:How are statistical or ML research organisations using public GitHub repositories? Are there guidelines for how GitHub is used by these organisations?
 
 ---
 
@@ -22,7 +17,7 @@ In order to understand how statistical or ML research organisations are using pu
 
 - [Statistics Canada](https://github.com/StatCan) comes third with 174 repositories. The top popular one is Documentation for the Data Analytics as a Service Platform.
 
-- We are *100%* sure that we can't find the Australian Bureau Statistics among the top users :tear: given we are using an internal ABS Bit Bucket! 
+- We are *100%* sure that we can't find the Australian Bureau Statistics among the top users given we are using an internal ABS Bit Bucket! :tear:  
 
 ## Are there guidelines for how GitHub is used by these organisations? 
 
@@ -31,10 +26,7 @@ For the guidelines we found the below:
 
 - Statistics Canada has user guide for cloud platform [link here](https://github.com/StatCan/cloud-native-platform)
 
-- ONS has a lot of documentations however we found non on guidelines for use of GitHub. Perhaps this is kept internal :laughing: 
+- ONS has a lot of documentations however we found no guidelines for use of GitHub. Perhaps this is kept internal :laughing: 
 
 - No guidelines are found from Statistics Norway!
-=======
-# Adding further notes here
-# test
->>>>>>> 2c8a78de9d83aa51c4def30adf1e2222815b27d5
+
