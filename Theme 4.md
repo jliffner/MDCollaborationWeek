@@ -1,5 +1,5 @@
 # Theme 4 
-## _The wonderful world of <insert statistical concept>_
+## _The wonderful world of Statistical Data Analysis
 
 Hello :zap: Statistical :zap: friends of the universe
 
@@ -15,7 +15,7 @@ In this markdown we are going to chat about
 
 > All models are wrong but some are helpful 8) 
 > 
-![meme]()
+![meme](https://github.com/jliffner/MDCollaborationWeek/blob/main/jedi_meme.jpg)
 
 Here is a cool box that has some code in it :fire:
 
