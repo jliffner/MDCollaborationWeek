@@ -1,7 +1,45 @@
-# Theme 4 - Elegant Documentation
+# Theme 4 
+## _The wonderful world of Statistical Data Analysis
 
-I thought here were could document the outputs from Theme 2 - Open datasets
+Hello :zap: Statistical :zap: friends of the universe
 
-I've committed 4 different datasets to work with, although feel free to add any others you'd like to work with
+In this markdown we are going to chat about 
+# :sparkles:  STATISTICAL CONCEPT :sparkles:  
 
-We can produce some summary statistics or plots/figures as part of Theme 2 and document them in this file
+### Features of statistical concept
+
+- dot point 1
+- dot point 2
+- blah blah
+
+
+> All models are wrong but some are helpful 8) 
+> 
+![meme](https://github.com/jliffner/MDCollaborationWeek/blob/main/jedi_meme.jpg)
+
+Here is a cool box that has some code in it :fire:
+
+```sh
+I definitely know how to use R
+data<-blah blah
+print 'hello world'
+```
+
+And here is another box with some more code :tada:
+
+```sh
+more stella R code
+x<-1+2
+```
+from Joel
+-I thought here were could document the outputs from Theme 2 - Open datasets
+ 
+-I've committed 4 different datasets to work with, although feel free to add any others you'd like to work with
+ 
+-We can produce some summary statistics or plots/figures as part of Theme 2 and document them in this file
+
+
+
+
+
+
