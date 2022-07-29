@@ -17,7 +17,7 @@ Have mercy on us we're old :older_woman: :laughing:
 ### The Challenge :nerd_face:
 An outline of the Challenge can be [here](https://github.com/TNMDCollaborationWeek/Challenges)  
 #### Theme 1
-https://github.com/jliffner/MDCollaborationWeek/blob/main/Theme%201.md
+Click [here](https://github.com/jliffner/MDCollaborationWeek/blob/main/Theme%201.md) to be dazzled by our response to Theme 1!! :tada:
 #### Theme 2
 **Data**  
 We downloaded four open datasets from data.gov.au:
@@ -51,7 +51,7 @@ Note: Reproducibility of results is a hot topic at the moment in the field of st
 
 
 #### Theme 4
-https://github.com/jliffner/MDCollaborationWeek/blob/main/Theme%204.md
+Click [here](https://github.com/jliffner/MDCollaborationWeek/blob/main/Theme%204.md) to be in awe of our overview of Statistical Data Analysis and use of emojis
 
 > Team Winging GIT have had a great time hacking along  
 > We have learnt alot  
