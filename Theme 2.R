@@ -1,6 +1,10 @@
 # this is just some very rough code to get everyone started
 # once you've cloned the repo you can make changes to the working directory in this file and start playing around with the data
 
+#-clear memory
+rm(list=ls(all=TRUE));gc()
+
+
 # I can't recall specifically which package is for what - I kind just load them all for this kind of stuff
 library(dplyr)
 library(tidyr)
@@ -42,10 +46,14 @@ table_theme <- ttheme_default(
 )
 
 # change the working directory to the repository
-setwd("C:\Users\Joel Liffner\Documents\MDCollaborationWeek")
+#-set active directory
+library("rstudioapi");setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
+getwd()
 
 # read in the data
 health <- read.csv("Health_Expenditure.csv")
+head(health)
 housing <- read.csv("SA_Housing_stress.csv")
 energy <- read.csv("HH_energy.csv")
 population <- read.csv("ACT_Population_Projections.csv")
@@ -97,6 +105,17 @@ plot_3 <- health %>% filter(financial_year == "1997-98") %>% group_by(area_of_ex
 # saving the plot as an image
 png("health_expenditure_plot2.png", width=1200, height=700)
 plot_3
+dev.off()
+
+
+plot_3a <- health %>% filter(financial_year == "1997-98") %>% group_by(area_of_expenditure, state) %>% summarise(total_exp = sum(real_expenditure_millions)) %>%
+        # Stacked 
+      ggplot(aes(fill=area_of_expenditure , y=total_exp, x=state)) + 
+      geom_bar(position="stack", stat="identity")
+
+# saving the plot as an image
+png("health_expenditure_plot3a.png", width=1200, height=700)
+plot_3a
 dev.off()
 
 # total health expenditure over time
