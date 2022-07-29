@@ -4,13 +4,13 @@
 ### About Us 
 Our Team is made up of Joel L :bearded_person: , our kind and dedicated leader :crown:  
 The wonderful crochetting Kay C :yarn: :curly_haired_woman:  
-The clever cheerleader Maree S :woman: :dancers:
+The clever Maree S :woman:  
 The talented Jospeh C :basketball_man: :basketball:  
 The ~~wanted-to-cheat-but-Joel-and-Kay-wouldn't-let-me~~, Kristy N :fox_face: :woman:  
 
 ### Pity Plea
 Unfortunately a lot of our team pulled out :sob: :sob: :sob:  
-Even more unfortunately only our fearless leader Joel and Joseph are capable in R :scream:	:astonished: :older_woman: :older_woman: :older_woman:   
+Even more unfortunately only our fearless leader Joel is capable in R :scream:	:astonished: :older_woman: :older_woman: :older_woman:   
 We have had a great time, but haven't had the capabilty :technologist:, resources :money_with_wings: or time :stopwatch: to complete all tasks to the level we would like.   
 Have mercy on us we're old :older_woman: :laughing:  
 
@@ -41,8 +41,8 @@ R code to perform data analysis and visualisation can be found [here](https://gi
 #### Theme 3  
 A useful tool for reproducible results is R markdown. An R markdown file is a record of your analysis process, so that other analysts are able to use your the code and data to reproduce your outputs. A very useful guide to R markdown can be found [here](https://andrewbtran.github.io/NICAR/2017/reproducibility-rmarkdown/rmarkdown.html).   
 
-We have created an example of an R markdown report, atached below as well as the code used to create it: 
-[Example Rmarkdown report](https://htmlpreview.github.io/?https://github.com/jliffner/MDCollaborationWeek/blob/main/Example%20Rmarkdown%20report.html)
+We have created an example of an R markdown report, atached below as well as the code used to create it:  
+[Example Rmarkdown report](https://htmlpreview.github.io/?https://github.com/jliffner/MDCollaborationWeek/blob/main/Example%20Rmarkdown%20report.html)  
 [Brilliant code is here!](https://github.com/jliffner/MDCollaborationWeek/blob/main/Rmarkdown_example.Rmd)
 
 
