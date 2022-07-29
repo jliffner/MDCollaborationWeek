@@ -41,7 +41,7 @@ R code to perform data analysis and visualisation can be found [here](https://gi
 #### Theme 3  
 A useful tool for reproducible results is R markdown. An R markdown file is a record of your analysis process, so that other analysts are able to use your the code and data to reproduce your outputs. A very useful guide to R markdown can be found [here](https://andrewbtran.github.io/NICAR/2017/reproducibility-rmarkdown/rmarkdown.html).   
 
-We have created an example of an R markdown report, atached below as well as the code used to create it:  
+We have created an example of an R markdown report, attached below as well as the code used to create it:  
 [Example Rmarkdown report](https://htmlpreview.github.io/?https://github.com/jliffner/MDCollaborationWeek/blob/main/Example%20Rmarkdown%20report.html)  
 [Brilliant code is here!](https://github.com/jliffner/MDCollaborationWeek/blob/main/Rmarkdown_example.Rmd)
 
