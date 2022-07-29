@@ -4,7 +4,7 @@
 ### About Us 
 Our Team is made up of Joel L :bearded_person: , our kind and dedicated leader :crown:  
 The wonderful crochetting Kay C :yarn: :curly_haired_woman:  
-The clever Maree S :woman:  
+The clever cheerleader Maree S :woman: :dancers:  
 The talented Jospeh C :basketball_man: :basketball:  
 The ~~wanted-to-cheat-but-Joel-and-Kay-wouldn't-let-me~~, Kristy N :fox_face: :woman:  
 
