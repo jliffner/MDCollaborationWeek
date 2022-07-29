@@ -31,12 +31,14 @@ In this plot we now break the data down by state to draw conclusions about healt
 >Can you think of a different type of visualisation or data presentation tool that might work better for this data?
 
 <details>
-  <summary>Click to expand and an alternative visualisation!</summary>
+  <summary>Click to expand and seean alternative visualisation!</summary>
   
   ![graph3a](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot3a.png)
-  This is the same data as Plot 2 above but with a much nicer visualisation for your brain :brain: to draw information on. Its also very very pretty which always get bonus points :rainbow: :unicorn:
+  _This is the same data as Plot 2 above but with a much nicer visualisation for your brain :brain: to draw information on. Its also very very pretty which always get bonus points_ :rainbow: :unicorn:
 </details>  
   
+    
+    
 Plot 3 :monkey:
 ![graph3](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot3.png)
 A tool :wrench: which should be in every analyst's toolkit are line graphs. These are particularly insightful for a time series, as presented above. This particular line graph highlights that public hospital expenditure has doubled over the reference period where other expenditure groups have barely increased.
