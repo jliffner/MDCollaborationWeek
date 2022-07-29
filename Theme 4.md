@@ -29,7 +29,13 @@ Plot 2 	:dog:
 ![graph2](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot2.png)
 In this plot we now break the data down by state to draw conclusions about health expenditure between jurisdictions, however now rather than comparing 2 categories we are comparing 8 :exploding_head: The result is a bit harder for the analyst to take in. 
 >Can you think of a different type of visualisation or data presentation tool that might work better for this data?
+
+<details>
+  <summary>Click to expand and an alternative visualisation!</summary>
   
+  ![graph3a](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot3a.png)
+  This is the same data as Plot 2 above but with a much nicer visualisation for your brain :brain: to draw information on. Its also very very pretty which always get bonus points :rainbow: :unicorn:
+</details>  
   
 Plot 3 :monkey:
 ![graph3](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot3.png)
