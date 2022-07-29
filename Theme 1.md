@@ -36,7 +36,7 @@ In order to understand how statistical or ML research organisations are using pu
 ---
 ## Machine Learning 
 
-- The most popular repository is [Tensorflow](https://github.com/tensorflow/tensorflow). is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and easily build and deploy ML-powered applications. :star2: 
+- The most popular repository is [Tensorflow](https://github.com/tensorflow/tensorflow). It is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that let researchers push the state-of-the-art in ML and easily build and deploy ML-powered applications. :star2: 
 
 - The most popular ML user is [Sebastian Raschka](https://github.com/rasbt). They have 16k followers and are the authors of the Python Machine Learning book. :green_heart: 
 ---
