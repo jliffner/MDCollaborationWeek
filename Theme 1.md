@@ -1,7 +1,7 @@
 # Theme 1 - What is GitHub?
 
 Task:
-Create a resource containing information about different public GitHub initiatives created by international statistical or machine learning research organisations. Present your repository to address the following questions:How are statistical or ML research organisations using public GitHub repositories? Are there guidelines for how GitHub is used by these organisations?
+Create a resource containing information about different public GitHub initiatives created by international statistical or machine learning research organisations. Present your repository to address the following questions: How are statistical or ML research organisations using public GitHub repositories? Are there guidelines for how GitHub is used by these organisations?
 
 ---
 :wave: hey there welcome to the repository of Team WINGING GIT :bird:
