@@ -30,13 +30,13 @@ We downloaded four open datasets from data.gov.au:
 R code to perform data analysis and visualisation can be found [here](https://github.com/jliffner/MDCollaborationWeek/blob/main/Theme%202.R)  
 
 **Output**  
-[Energy Consumption by Dwelling Type](https://github.com/jliffner/MDCollaborationWeek/blob/main/energy_plot.png)  
-[Number of households under income stress by Tenure type and income index](https://github.com/jliffner/MDCollaborationWeek/blob/main/housing_figure.png)  
-[National health expenditure by type](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot1.png)  
-[State health expenditure by type](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot2.png)  
-[Alternative state health expenditure data by type](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot3a.png)  
-[National health expenditure over time](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot3.png)  
-[Projected ACT population](https://github.com/jliffner/MDCollaborationWeek/blob/main/population_plot1.png)  
+:heart: [Energy Consumption by Dwelling Type](https://github.com/jliffner/MDCollaborationWeek/blob/main/energy_plot.png)  
+:orange_heart: [Number of households under income stress by Tenure type and income index](https://github.com/jliffner/MDCollaborationWeek/blob/main/housing_figure.png)  
+:yellow_heart: [National health expenditure by type](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot1.png)  
+:green_heart: [State health expenditure by type](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot2.png)  
+:blue_heart: [Alternative state health expenditure data by type](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot3a.png)  
+:purple_heart: [National health expenditure over time](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot3.png)  
+:brown_heart: [Projected ACT population](https://github.com/jliffner/MDCollaborationWeek/blob/main/population_plot1.png)  
 
 #### Theme 3  
 A useful tool for reproducible results is R markdown. An R markdown file is a record of your analysis process, so that other analysts are able to use your the code and data to reproduce your outputs. A very useful guide to R markdown can be found [here](https://andrewbtran.github.io/NICAR/2017/reproducibility-rmarkdown/rmarkdown.html).   
