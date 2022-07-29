@@ -15,7 +15,7 @@ The wanted-to-cheat-but-Joel-and-Kay-wouldn't-let me, Kristy N :fox_face: :woman
 ### Pity Plea
 Unfortunately a lot of our team pulled out :sob: :sob: :sob:
 Even more unfortunately only our fearless leader Joel is capable in R :scream:	:astonished: :older_woman: :older_woman: :older_woman:
-We have had a great time, but haven't had the capabilty :technologist:, resources :money_with_wings: or time :stopwatch: to complete all tasks to the level we would like 
+We have had a great time, but haven't had the capabilty :technologist:, resources :money_with_wings: or time :stopwatch: to complete all tasks to the level we would like. 
 Have mercy on us we're old :older_woman: :laughing:
 
 ---
@@ -31,7 +31,7 @@ In order to understand how statistical or ML research organisations are using pu
 
 - [Statistics Canada](https://github.com/StatCan) comes third with 174 repositories. The top popular one is Documentation for the Data Analytics as a Service Platform. :bulb: 
 
-- We probably won't find the Australian Bureau Statistics among the top users given we are using an internal ABS Bit Bucket! :ok_hand: 
+- We probably won't find the Australian Bureau Statistics among the top users given we are using an internal ABS BitBucket! :ok_hand: 
 
 ---
 ## Machine Learning 
