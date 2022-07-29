@@ -4,13 +4,13 @@
 ### About Us 
 Our Team is made up of Joel L :bearded_person: , our kind and dedicated leader :crown:  
 The wonderful crochetting Kay C :yarn: :curly_haired_woman:  
-The clever Maree S :woman:  
+The clever cheerleader Maree S :woman: :dancers:
 The talented Jospeh C :basketball_man: :basketball:  
 The ~~wanted-to-cheat-but-Joel-and-Kay-wouldn't-let-me~~, Kristy N :fox_face: :woman:  
 
 ### Pity Plea
 Unfortunately a lot of our team pulled out :sob: :sob: :sob:  
-Even more unfortunately only our fearless leader Joel is capable in R :scream:	:astonished: :older_woman: :older_woman: :older_woman:   
+Even more unfortunately only our fearless leader Joel and Joseph are capable in R :scream:	:astonished: :older_woman: :older_woman: :older_woman:   
 We have had a great time, but haven't had the capabilty :technologist:, resources :money_with_wings: or time :stopwatch: to complete all tasks to the level we would like.   
 Have mercy on us we're old :older_woman: :laughing:  
 
