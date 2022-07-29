@@ -4,10 +4,10 @@ Task:
 Create a resource containing information about different public GitHub initiatives created by international statistical or machine learning research organisations. Present your repository to address the Following questions: How are statistical or ML research organisations using public GitHub repositories? Are there guidelines for how GitHub is used by these organisations?
 
 ---
-:wave: hey there welcome to the repository of Team WINGING GIT :bird:
+:wave: hey there welcome to the repository of team WINGING GIT :bird:
 
 ### About Us 
-Our Team is made up of Joel L :bearded_person: , our kind and dedicated leader :crown:
+Our team is made up of Joel L :bearded_person: , our kind and dedicated leader :crown:
 The wonderful crochetting Kay C :yarn: :curly_haired_woman:
 The clever Maree S :woman:
 The talented Joseph C :basketball:
