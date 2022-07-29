@@ -9,20 +9,20 @@ So lets dive in
 ![dive in](https://github.com/jliffner/MDCollaborationWeek/blob/main/dive.gif)
 
 ### :bellhop_bell: Getting to know your data 
-Exploratory data analysis is an undervalued tool by most analysts, it can reveal both error and pattern, alert the analyst to when data need to undergo cleaning prior to analysis (:mega: shout out to tidyr), reveal biases, underlying correlations, and especially help the analyst decide the most appropriate analytical method to choose for more in depth analysis. 
+Exploratory data analysis is an undervalued tool by most analysts, it can reveal both error and pattern, alert the analyst to when data need to undergo cleaning prior to analysis (:mega: shout out to tidyr), reveal biases, underlying correlations, and especially helP the analyst decide the most appropriate analytical method to choose for more in depth analysis. 
 >For example, without understanding underlying patterns in data such as linearity and distributions, the analyst could chose a correlation method unsuitable to draw inference from the data
 
 ![meme](https://github.com/jliffner/MDCollaborationWeek/blob/main/jedi_meme.jpg)
 
 ### :balloon: Examples from Theme 2
-In Theme 2 of this challenge, Team Winging Git :bird: performed a number of simple data analysis and visualisations to draw inference and conclusion from open data sets. In this section we will present the results, discuss how the example helps us draw inference from the data and perhaps suggest some other ways we could present the data. 
+In Theme 2 of this challenge, Team Winging Git :bird: performed a number of simple data analysis and visualisations to draw inference and conclusion from open data sets. In this section we will present the resuLts, discuss how the example helps us draw inference from the data and perhaps suggest some other ways we could present the data. 
 
 #### :mushroom: I want to learn about Health Expenditure data!
 Below national health expenditure data is graphed using the ggplot :fire:. From this data we can make inferences about Government and Non-government funding of different health expenditure products.   
 
 Plot 1 :cat:
 ![graph1](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot1.png)
-Our brains :brain: are highly skilled in drawing stories from visual aids, much more so than tables of numbers. You can see in this plot the use of high contrast enables the readers to make quick conclusions about spending on health. 
+Our brains :brain: are highly skilled in drawing stories from visual aids, much more so than tables of numbers. You can see in this plot the use of high contrast enables the readers to mAke quick conclusions about spending on health. 
   
   
 Plot 2 	:dog:
@@ -44,7 +44,7 @@ Plot 3 :monkey:
 A tool :wrench: which should be in every analyst's toolkit are line graphs. These are particularly insightful for a time series, as presented above. This particular line graph highlights that public hospital expenditure has doubled over the reference period where other expenditure groups have barely increased.
 >How would you make this graph more digestible for a reader? 
 #### :mushroom: Give it a crack! :firecracker:  
-Now is your turn to try and draw some basic conclusions from the line graph below. See if you can answer the following questions
+Now is your turn to try and draw some basic conClusions from the line graph below. See if you can answer the following questions
 1. How much is the population projected to grow over the next 20 years?
 2. What can you tell about ACT mortality and birth rates by looking at the 0-14 and 65+ lines over the next 40 years?
 3. Why does the 15-64 age group have a much higher gradient than the other lines?
@@ -54,7 +54,7 @@ Now is your turn to try and draw some basic conclusions from the line graph belo
 
 
 
-> All models are wrong but some are helpful  
+> All models are wrong but somE are helpful  
   
 
 ### :loudspeaker: Public service announcement :loudspeaker:  
