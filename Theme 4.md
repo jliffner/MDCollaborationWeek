@@ -3,7 +3,7 @@
 # :sparkles:  Statistical Data Analysis :sparkles:  
 
 Hello :zap: statistical :zap: friends of the interwebs, here we are going to chat about various kinds of basic statistical data analysis. 
-Statistical data analysis covers an entire 	:star: galaxy :star: of methods and concepts. We are going to focus on what should be the first step of any task with data, **Getting to know your data!**  Team Winging Git :bird: highly reccomends  YouTube channels like [2Blue1Brown](https://www.youtube.com/c/3blue1brown) for more detailed data analytics and machine learning tools. 
+Statistical data analysis covers an entire 	:star: galaxy :star: of methods and concepts. We are going to focus on what should be the first step of any task with data, **getting to know your data!**  Team Winging Git :bird: highly reccomends  YouTube channels like [2Blue1Brown](https://www.youtube.com/c/3blue1brown) for more detailed data analytics and machine learning tools. 
 
 So lets dive in  
 ![dive in](https://github.com/jliffner/MDCollaborationWeek/blob/main/dive.gif)
