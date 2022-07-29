@@ -45,6 +45,7 @@ We have created an example of an R markdown report, attached below as well as th
 [Example Rmarkdown report](https://htmlpreview.github.io/?https://github.com/jliffner/MDCollaborationWeek/blob/main/Example%20Rmarkdown%20report.html)  
 [Brilliant code is here!](https://github.com/jliffner/MDCollaborationWeek/blob/main/Rmarkdown_example.Rmd)
 
+Rmarkdown has some other great benefits, such as updating graphs and tables when new data becomes available. Its an A+++ tool in our humble opinions :trophy: 
 
 Note: Reproducibility of results is a hot topic at the moment in the field of statistics and data science, and considered a non-negotiable by many high profile experts when producing high quality research. [Dr. Di Cook](http://dicook.org/), a MAC member, has a number of talks and papers on this topic.
 
