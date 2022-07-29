@@ -2,7 +2,7 @@
 ## _The wonderful world of_
 # :sparkles:  Statistical Data Analysis :sparkles:  
 
-Hello :zap: Statistical :zap: friends of the interwebs, here we are going to chat about various kinds of basic statistical data analysis. 
+Hello :zap: statistical :zap: friends of the interwebs, here we are going to chat about various kinds of basic statistical data analysis. 
 Statistical data analysis covers an entire 	:star: galaxy :star: of methods and concepts. We are going to focus on what should be the first step of any task with data, **Getting to know your data!**  Team Winging Git :bird: highly reccomends  YouTube channels like [2Blue1Brown](https://www.youtube.com/c/3blue1brown) for more detailed data analytics and machine learning tools. 
 
 So lets dive in  
@@ -15,10 +15,10 @@ Exploratory data analysis is an undervalued tool by most analysts, it can reveal
 ![meme](https://github.com/jliffner/MDCollaborationWeek/blob/main/jedi_meme.jpg)
 
 ### :balloon: Examples from Theme 2
-In Theme 2 of this challenge, Team Winging Git :bird: performed a number of simple data analysis and visualisations to draw inference and conclusion from open data sets. In this section we will present the resuLts, discuss how the example helps us draw inference from the data and perhaps suggest some other ways we could present the data. 
+In theme 2 of this challenge, Team Winging Git :bird: performed a number of simple data analysis and visualisations to draw inference and conclusion from open data sets. In this section we will present the resuLts, discuss how the example helps us draw inference from the data and perhaps suggest some other ways we could present the data. 
 
 #### :mushroom: I want to learn about Health Expenditure data!
-Below national health expenditure data is graphed using the ggplot :fire:. From this data we can make inferences about Government and Non-government funding of different health expenditure products.   
+Below national health expenditure data is graphed using the ggplot :fire:. From this data we can make inferences about government and non-government funding of different health expenditure products.   
 
 Plot 1 :cat:
 ![graph1](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot1.png)
