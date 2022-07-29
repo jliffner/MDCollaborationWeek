@@ -10,7 +10,7 @@ So lets dive in
 
 ### :bellhop_bell: Getting to know your data 
 Exploratory data analysis is an undervalued tool by most analysts, it can reveal both error and pattern, alert the analyst to when data need to undergo cleaning prior to analysis (:mega: shout out to tidyr), reveal biases, underlying correlations, and especially help the analyst decide the most appropriate analytical method to choose for more in depth analysis. 
->For example, Without understanding underlying patterns in data such as linearity and distributions, the analyst could chose a correlation method unsuitable to draw inference from the data
+>For example, without understanding underlying patterns in data such as linearity and distributions, the analyst could chose a correlation method unsuitable to draw inference from the data
 
 ![meme](https://github.com/jliffner/MDCollaborationWeek/blob/main/jedi_meme.jpg)
 
@@ -27,7 +27,7 @@ Our brains :brain: are highly skilled in drawing stories from visual aids, much 
   
 Plot 2 	:dog:
 ![graph2](https://github.com/jliffner/MDCollaborationWeek/blob/main/health_expenditure_plot2.png)
-In this plot we now break the data down by state to draw conclusions about health expenditure between jursidictions, however now rather than comparing 2 categories we are comparing 8 :exploding_head: The result is a bit harder for the analyst to take in. 
+In this plot we now break the data down by state to draw conclusions about health expenditure between jurisdictions, however now rather than comparing 2 categories we are comparing 8 :exploding_head: The result is a bit harder for the analyst to take in. 
 >Can you think of a different type of visualisation or data presentation tool that might work better for this data?
   
   
@@ -43,22 +43,11 @@ Now is your turn to try and draw some basic conclusions from the line graph belo
 
 ![graph4](https://github.com/jliffner/MDCollaborationWeek/blob/main/population_plot1.png)
 
-Here is a cool box that has some code in it :fire:
 
-```sh
-I definitely know how to use R
-print 'hello world'
-```
-
-And here is another box with some more code :tada:
-
-```sh
-more stella R code
-x<-1+2
-```
 
 
 > All models are wrong but some are helpful  
+  
 
 ### :loudspeaker: Public service announcement :loudspeaker:  
 You will never not be humming this song while coding after watching this **must** see video. You can thank me later :wink:  
